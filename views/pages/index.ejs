@@ -222,13 +222,14 @@
 										</div>
 									</div>
 
-									<button  class="btn btn-purple btn-lg full-width" onclick="myFunction()">Complete Registration!</button>
+									<button  class="btn btn-purple btn-lg full-width" >Complete Registration!</button>
 								</div>
 							</div>
 					</div>
 
 					<div class="tab-pane" id="profile" role="tabpanel" data-mh="log-tab">
 						<div class="title h6">Login to your Account</div>
+						<form class="content" action="/login" method="post">
 							<div class="row">
 								<div class="col col-12 col-xl-12 col-lg-12 col-md-12 col-sm-12">
 									<div class="form-group label-floating is-empty">
@@ -263,6 +264,7 @@
 									<p>Don’t you have an account? <a href="#">Register Now!</a> it’s really simple and you can start enjoing all the benefits!</p>
 								</div>
 							</div>
+						</form>
 					</div>
 				</div>
 			</div>
@@ -322,8 +324,10 @@ function validatePassword(){
     confirm_password.setCustomValidity('');
   }
 }
+
 password.onchange = validatePassword;
 confirm_password.onkeyup = validatePassword;
 </script>
+
 </body>
 </html>
