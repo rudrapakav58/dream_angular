@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6c6e0b96-32d3-4b33-86ee-4bd5afda6d1e" name="Default" comment="" />
+    <list default="true" id="6c6e0b96-32d3-4b33-86ee-4bd5afda6d1e" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/views/pages/index.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/pages/index.ejs" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,8 +25,8 @@
       <file leaf-file-name="index.ejs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/views/pages/index.ejs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1546">
-              <caret line="309" column="3" selection-start-line="309" selection-start-column="3" selection-end-line="309" selection-end-column="3" />
+            <state relative-caret-position="125">
+              <caret line="216" column="62" lean-forward="true" selection-start-line="216" selection-start-column="62" selection-end-line="216" selection-end-column="62" />
             </state>
           </provider>
         </entry>
@@ -69,6 +71,11 @@
         <option value="HTML File" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>static/</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -163,6 +170,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="3" y="71" width="1280" height="729" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2494043" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -245,8 +253,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/views/pages/index.ejs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1546">
-          <caret line="309" column="3" selection-start-line="309" selection-start-column="3" selection-end-line="309" selection-end-column="3" />
+        <state relative-caret-position="125">
+          <caret line="216" column="62" lean-forward="true" selection-start-line="216" selection-start-column="62" selection-end-line="216" selection-end-column="62" />
         </state>
       </provider>
     </entry>
